@@ -10,7 +10,11 @@
     <CodePage>65001</CodePage>
     <RootNamespace>MonoGame.Framework.Linux</RootNamespace>
     <AssemblyName>MonoGame.Framework.Linux</AssemblyName>
+<<<<<<< HEAD
     <ReleaseVersion>2.5.0.0</ReleaseVersion>
+=======
+    <ReleaseVersion>2.5.0.0</ReleaseVersion>
+>>>>>>> 56afa04d3421f1caacfffbf71493fc473bf62cd7
     <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
